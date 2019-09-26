@@ -81,13 +81,13 @@ Users can track their orders history only.
 ![alt text](https://raw.githubusercontent.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/master/github/admin_panel4.png "Logo Title Text 1")
 
 ### How To Write Templates
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/How-to-write-templates
+Read in our wiki - https://github.com/akzn/Shopping-Cart-Solution-CodeIgniter/wiki/How-to-write-templates
 
 ### Shopping cart peculiarities
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/Shopping-cart-peculiarities
+Read in our wiki - https://github.com/akzn/Shopping-Cart-Solution-CodeIgniter/wiki/Shopping-cart-peculiarities
 
 ### Multi Vendor Support
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/Multi-Vendor-Support
+Read in our wiki - https://github.com/akzn/Shopping-Cart-Solution-CodeIgniter/wiki/Multi-Vendor-Support
 
 ### API Documentation
-Read in our wiki - https://github.com/kirilkirkov/Shopping-Cart-Solution-CodeIgniter/wiki/API
+Read in our wiki - https://github.com/akzn/Shopping-Cart-Solution-CodeIgniter/wiki/API
