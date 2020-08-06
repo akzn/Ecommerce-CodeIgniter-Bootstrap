@@ -82,7 +82,8 @@ CREATE TABLE IF NOT EXISTS `languages` (
 INSERT INTO `languages` (`id`, `abbr`, `name`, `currency`, `currencyKey`, `flag`) VALUES
 (1, 'bg', 'bulgarian', 'лв', 'BGN', 'bg.jpg'),
 (2, 'en', 'english', '$', 'USD', 'en.jpg'),
-(3, 'gr', 'greece', 'EUR', 'EUR', 'gr.png');
+(3, 'gr', 'greece', 'EUR', 'EUR', 'gr.png'),
+(4, 'id', 'indonesian', 'RP', 'IDR', 'id.jpg');
 
 
 CREATE TABLE IF NOT EXISTS `orders` (
@@ -309,7 +310,11 @@ INSERT INTO `value_store` (`id`, `thekey`, `value`) VALUES
 (27, 'showInSlider', '0'),
 (28, 'codeDiscounts', '1'),
 (29, 'virtualProducts', '0'),
-(30, 'multiVendor', '0');
+(30, 'multiVendor', '0'),
+(31, 'outOfStock', '0'),
+(32, 'hideBuyButtonsOfOutOfStock', '0'),
+(33, 'moreInfoBtn', ''),
+(34, 'refreshAfterAddToCart', 0);
 
 CREATE TABLE `brands` (
   `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
